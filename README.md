@@ -1,1 +1,1 @@
-# Animation-Landscape
+Little JavaScript game.
